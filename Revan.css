@@ -1,5 +1,7 @@
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
+header {padding: 10%;}
+
 nav{color: blue;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
