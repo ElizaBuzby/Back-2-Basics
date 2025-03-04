@@ -1,6 +1,7 @@
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
-header {padding: 10%;}
+header {padding: 10%;
+    font-size: larger;}
 
 nav{color: blue;}
 nav a:hover{text-decoration: underline;}
