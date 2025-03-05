@@ -8,7 +8,9 @@ header {padding: 10%;
 nav{color: blue;
     text-align: center;
     background-color: darkslateblue;
-    text-decoration: none;}
+    text-decoration: none;
+    padding-left: 1em;
+    padding-right: 1em;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
@@ -20,7 +22,8 @@ footer{font-size: small;
     color: white;
     text-shadow: 50% blue;
     text-align: center;
-    background-size:50% 50%;}
+    background-size:50% 50%;
+    background-repeat: no-repeat;}
 
 .dropdown{ENTER CONTENT;}
 
