@@ -36,7 +36,8 @@ footer{font-size: small;
     z-index: 1;
     right: 0;
     color: aqua;}
-
+.dropdown:hover .dropdown-content {
+        display: block;}
 button{align-items: center;
     border: none;
     background-color: currentColor;}
