@@ -25,6 +25,13 @@ footer{font-size: small;
     background-size:50% 50%;
     background-repeat: no-repeat;}
 
-.dropdown{ENTER CONTENT;}
+.dropdown{position: absolute;}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 1;}
 
-button{align-items: center;}
+button{align-items: center;
+    border: none;
+    background-color: currentColor;}
