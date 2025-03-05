@@ -9,8 +9,8 @@ nav{color: blue;
     text-align: center;
     background-color: darkslateblue;
     text-decoration: none;
-    padding-left: 1em;
-    padding-right: 1em;}
+    padding-top: 1em;
+    padding-bottom: 1em;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
@@ -26,12 +26,16 @@ footer{font-size: small;
     background-position: center;
     background-color: darkblue;}
 
-.dropdown{position: absolute;}
+.dropdown{position: absolute;
+    top: 20px;
+    right: 20px;}
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: white;
-    z-index: 1;}
+    z-index: 1;
+    right: 0;
+    color: aqua;}
 
 button{align-items: center;
     border: none;
