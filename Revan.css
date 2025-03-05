@@ -3,28 +3,31 @@ body{font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: honeydew;}
 
 header {padding: 20%;
-    font-size: xx-large;}
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;}
 
 nav{color: blue;
     text-align: center;
-    background-color: darkslateblue;
-    text-decoration: none;
+    background-color: rgb(36, 28, 90);
     padding-top: 1em;
     padding-bottom: 1em;}
+nav a{text-decoration: none;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
 footer{font-size: small;
-    font-style: italic;
-    color: white;}
+    font-style: italic;}
+
+iframe{align-self: center;
+    border-radius: 8px;}
 
 .banner {background-image: url(Darth_Revan.jpg) ;
     color: white;
-    text-shadow: 50% blue;
+    text-shadow: blue;
     text-align: center;
     background-repeat: no-repeat;
     background-position-x: center;
-    background-color: darkblue;}
+    background-color: rgb(36, 28, 90);}
 
 .dropdown{position: absolute;
     top: 20px;
@@ -32,11 +35,15 @@ footer{font-size: small;
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: honeydew;
     z-index: 1;
+    font-size: small;
     color: aqua;}
+.dropdown-content{text-decoration: none;}
+.dropdown-content a:hover{text-decoration: underline;}
 .dropdown:hover .dropdown-content {
     display: block;}
 button{align-items: center;
     border: none;
     background-color: honeydew;}
+
