@@ -3,7 +3,7 @@ body{font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: honeydew;}
 
 header {padding: 20%;
-    font-size: x-large;}
+    font-size: xx-large;}
 
 nav{color: blue;
     text-align: center;
@@ -23,7 +23,7 @@ footer{font-size: small;
     text-shadow: 50% blue;
     text-align: center;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position-x: center;
     background-color: darkblue;}
 
 .dropdown{position: absolute;
@@ -34,10 +34,9 @@ footer{font-size: small;
     position: absolute;
     background-color: white;
     z-index: 1;
-    right: 0;
     color: aqua;}
 .dropdown:hover .dropdown-content {
-        display: block;}
+    display: block;}
 button{align-items: center;
     border: none;
-    background-color: currentColor;}
+    background-color: honeydew;}
