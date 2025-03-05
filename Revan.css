@@ -18,11 +18,10 @@ footer{font-size: small;
     font-style: italic;
     color: white;}
 
-.banner {background-image: url(Darth_Revan.webp);
+.banner {background-image: url(Darth_Revan.webp) ;
     color: white;
     text-shadow: 50% blue;
     text-align: center;
-    background-size:50% 50%;
     background-repeat: no-repeat;}
 
 .dropdown{position: absolute;}
