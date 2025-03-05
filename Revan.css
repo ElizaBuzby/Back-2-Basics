@@ -1,18 +1,24 @@
-body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2em;}
 
 header {padding: 10%;
     font-size: larger;}
 
-nav{color: blue;}
+nav{color: blue;
+    text-align: center;
+    background-color: darkslateblue;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
 footer{font-size: small;
     font-style: italic;}
 
-.banner {background-image: url(Darth_Revan.webp);
+.banner {background-image: url(Darth_Revan.webp;)
     color: white;
     text-shadow: blue;
-    text-align: center;}
+    text-align: center;
+    background-size:50% 50%;}
 
 .dropdown{ENTER CONTENT;}
+
+button{align-items: center;}
