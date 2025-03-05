@@ -40,7 +40,7 @@ iframe{align-self: center;
     font-size: small;
     color: aqua;}
 .dropdown-content{text-decoration: none;}
-.dropdown-content a:hover{text-decoration: underline;}
+.dropdown .dropdown-content a:hover{text-decoration: underline;}
 .dropdown:hover .dropdown-content {
     display: block;}
 button{align-items: center;
