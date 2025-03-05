@@ -1,21 +1,24 @@
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 2em;}
+    margin: 2em;
+    background-color: honeydew;}
 
 header {padding: 10%;
-    font-size: larger;}
+    font-size: x-large;}
 
 nav{color: blue;
     text-align: center;
-    background-color: darkslateblue;}
+    background-color: darkslateblue;
+    text-decoration: none;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
 footer{font-size: small;
-    font-style: italic;}
+    font-style: italic;
+    color: white;}
 
-.banner {background-image: url(Darth_Revan.webp;)
+.banner {background-image: url(Darth_Revan.webp);
     color: white;
-    text-shadow: blue;
+    text-shadow: 50% blue;
     text-align: center;
     background-size:50% 50%;}
 
