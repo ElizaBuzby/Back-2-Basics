@@ -37,7 +37,6 @@ iframe{align-self: center;
     position: absolute;
     background-color: honeydew;
     z-index: 1;
-    font-size: small;
     color: aqua;}
 .dropdown-content{text-decoration: none;}
 .dropdown .dropdown-content a:hover{text-decoration: underline;}
