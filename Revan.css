@@ -2,7 +2,7 @@ body{font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 2em;
     background-color: honeydew;}
 
-header {padding: 10%;
+header {padding: 20%;
     font-size: x-large;}
 
 nav{color: blue;
@@ -18,11 +18,13 @@ footer{font-size: small;
     font-style: italic;
     color: white;}
 
-.banner {background-image: url(Darth_Revan.webp) ;
+.banner {background-image: url(Darth_Revan.jpg) ;
     color: white;
     text-shadow: 50% blue;
     text-align: center;
-    background-repeat: no-repeat;}
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: darkblue;}
 
 .dropdown{position: absolute;}
 .dropdown-content {
