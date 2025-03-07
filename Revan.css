@@ -15,6 +15,7 @@ nav a{text-decoration: none;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
+main{padding: 2em;}
 main section p a{text-decoration: none;
     color: black;}
 main section p a:hover {text-decoration: underline;}
@@ -34,8 +35,7 @@ iframe{align-self: center;
     background-color: rgb(36, 28, 90);}
 
 .dropdown{position: absolute;
-    top: 20px;
-    right: 20px;}
+    align-self: center;}
 .dropdown-content {
     display: none;
     position: absolute;
