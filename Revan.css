@@ -16,9 +16,9 @@ nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
 
 main{padding: 2em;}
-main section p a{text-decoration: none;
+main p a{text-decoration: none;
     color: black;}
-main section p a:hover {text-decoration: underline;}
+main p a:hover {text-decoration: underline;}
 
 footer{font-size: small;
     font-style: italic;}
