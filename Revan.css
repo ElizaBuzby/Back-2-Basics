@@ -10,7 +10,9 @@ nav{color: blue;
     text-align: center;
     background-color: #040914;
     padding-top: 1em;
-    padding-bottom: 1em;}
+    padding-bottom: 1em;
+    padding-right: 1em;
+    padding-left: 1em;}
 nav a{text-decoration: none;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
