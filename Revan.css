@@ -24,7 +24,8 @@ footer{font-size: small;
     font-style: italic;}
 
 iframe{align-self: center;
-    border-radius: 8px;}
+    border-radius: 8px;
+    size: auto;}
 
 .banner {background-image: url(Darth_Revan.jpg) ;
     color: white;
@@ -46,7 +47,6 @@ iframe{align-self: center;
 .dropdown .dropdown-content a:hover{text-decoration: underline;}
 .dropdown:hover .dropdown-content {
     display: block;}
-button{align-items: center;
-    border: none;
+button{border: none;
     background-color: honeydew;}
 
