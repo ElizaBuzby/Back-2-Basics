@@ -37,6 +37,10 @@ iframe{align-self: center;
     background-position-x: center;
     background-color: #040914;}
 
+section {border-radius: 8px;
+    background-color: white;}
+
+
 .dropdown{position: absolute;
     align-self: center;}
 .dropdown-content {
