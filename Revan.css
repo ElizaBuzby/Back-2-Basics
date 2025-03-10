@@ -37,6 +37,9 @@ iframe{align-self: center;
 section {border-radius: 8px;
     background-color: white;
     padding: 1em;}
+section p{padding: 2em;}
+section img{width: 20%;
+    height: 20%;}
 
 
 .dropdown{position: absolute;
