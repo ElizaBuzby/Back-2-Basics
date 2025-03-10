@@ -44,6 +44,9 @@ main section p{padding: 2em;}
 main section img{width: 8%;
     height: 8%;
     vertical-align:middle;}
+@media only all and (max-width: 450px) {
+    main section img{display: none;}
+    }
 section a{text-decoration: none;}
 section a:hover{text-decoration: underline;}
 section a:visited{color: blueviolet;}
