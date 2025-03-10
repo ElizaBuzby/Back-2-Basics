@@ -6,7 +6,8 @@ body{font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 header {padding: 20%;
     font-size: xx-large;
-    font-family: 'Times New Roman', Times, serif;}
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: blue;}
 
 nav{color: blue;
     text-align: center;
