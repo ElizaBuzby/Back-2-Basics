@@ -38,22 +38,9 @@ section {border-radius: 8px;
     background-color: white;
     padding: 1em;}
 section p{padding: 2em;}
-section img{width: 20%;
-    height: 20%;}
+section img{width: 15%;
+    height: 15%;}
 
 
-.dropdown{position: absolute;
-    align-self: center;}
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: honeydew;
-    z-index: 1;
-    color: aqua;}
-.dropdown-content{text-decoration: none;}
-.dropdown .dropdown-content a:hover{text-decoration: underline;}
-.dropdown:hover .dropdown-content {
-    display: block;}
-button{border: none;
-    background-color: honeydew;}
+.alignalready{text-align: center;}
 
