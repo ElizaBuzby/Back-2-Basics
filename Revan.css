@@ -42,7 +42,8 @@ iframe{align-self: center;
 
 section {border-radius: 8px;
     background-color: white;
-    padding: 1em;}
+    padding: 1em;
+    display: block;}
 main section p{padding: 2em;}
 main section img{width: 12%;
     height: 12%;
