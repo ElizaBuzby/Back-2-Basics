@@ -27,7 +27,11 @@ footer{font-size: small;
 
 iframe{align-self: center;
     border-radius: 8px;
-    size: auto;}
+    height: 100%;
+    width: 100%;
+    display: block;
+    margin-left: 1em;
+    margin-right: 1em;}
 
 .banner {background-image: url(Darth_Revan.jpg) ;
     color: white;
