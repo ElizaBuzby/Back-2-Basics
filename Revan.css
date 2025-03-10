@@ -18,7 +18,7 @@ nav a:visited{color: blueviolet;}
 
 main{padding: 2em;}
 main p a{text-decoration: none;
-    color: black;}
+    color: #040914;}
 main p a:hover {text-decoration: underline;}
 
 footer{font-size: small;
