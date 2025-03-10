@@ -39,7 +39,8 @@ section {border-radius: 8px;
     padding: 1em;}
 main section p{padding: 2em;}
 main section img{width: 8%;
-    height: 8%;}
+    height: 8%;
+    vertical-align:middle;}
 section a{text-decoration: none;}
 section a:hover{text-decoration: underline;}
 section a:visited{color: blueviolet;}
