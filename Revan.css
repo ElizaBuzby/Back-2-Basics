@@ -9,10 +9,7 @@ header {padding: 20%;
 nav{color: blue;
     text-align: center;
     background-color: #040914;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-right: 1em;
-    padding-left: 1em;}
+    padding: 1em;}
 nav a{text-decoration: none;}
 nav a:hover{text-decoration: underline;}
 nav a:visited{color: blueviolet;}
@@ -38,7 +35,8 @@ iframe{align-self: center;
     background-color: #040914;}
 
 section {border-radius: 8px;
-    background-color: white;}
+    background-color: white;
+    padding: 1em;}
 
 
 .dropdown{position: absolute;
