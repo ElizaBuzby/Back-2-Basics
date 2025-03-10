@@ -1,6 +1,8 @@
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 2em;
-    background-color: honeydew;}
+    background-image: url(space.jpg);
+    background-color: #040914;
+    background-blend-mode: lighten;}
 
 header {padding: 20%;
     font-size: xx-large;
