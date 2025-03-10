@@ -45,8 +45,8 @@ section {border-radius: 8px;
     padding: 1em;
     display: block;}
 main section p{padding: 2em;}
-main section img{width: 12%;
-    height: 12%;
+main section img{width: 9%;
+    height: 9%;
     vertical-align:middle;}
 @media only all and (max-width: 450px) {
     main section img{display: none;}
